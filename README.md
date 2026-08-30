@@ -1,26 +1,21 @@
-# IDS 403 — Technology and Society
+# IDS-403 Technology and Society
 
-## Human-centered field-service technology case study
+This private repository contains my coursework and final project for IDS-403 Technology and Society.
 
-This portfolio case study examines the adoption of a tablet-based field-management system for a pest-control organization. It connects technology strategy, human-centered design, digital inclusion, operational workflow, and responsible implementation.
+## Contents
 
-The work demonstrates systems thinking and technical communication: identifying stakeholders, comparing competing perspectives, surfacing adoption risks, and translating analysis into practical recommendations.
+- Module 1: Lens Exploration
+- Module 2: Technology and Event Introduction
+- Module 3: Critical Analysis
+- Module 4: Critical Analysis
+- Module 5: Reflection: Self
+- Module 6: Reflection: Society
+- Module 7: Final Project
 
-## Portfolio highlights
+## Project Topic
 
-- Stakeholder analysis across technicians, office staff, customers, and management
-- Human-centered design recommendations grounded in field conditions
-- Digital-divide and accessibility considerations for rural users
-- Adoption, training, change-management, and feedback-loop recommendations
-- Privacy, recordkeeping, and responsible-technology considerations
-- Clear separation between evidence, assumptions, and recommendations
+My project examines connected field management systems in pest control. Branch offices use PC-based software as central hubs, while technicians use tablets in the field to access schedules, customer records, treatment histories, pest-identification resources, and service information.
 
-## Start here
+## Author
 
-- [Case study](docs/case-study.md)
-- [Analysis framework](docs/analysis-framework.md)
-- [Provenance and privacy notes](docs/PROVENANCE.md)
-
-## Scope note
-
-This repository is a portfolio presentation derived from verified IDS-403 coursework. Original course submissions remain private. The public-facing material is a concise case-study adaptation rather than a replacement for the submitted academic documents.
+Michael B. Wood
