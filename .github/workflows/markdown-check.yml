@@ -1,0 +1,18 @@
+name: Documentation check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required portfolio documents
+        shell: bash
+        run: |
+          test -s README.md
+          test -s docs/case-study.md
+          test -s docs/analysis-framework.md
+          test -s docs/PROVENANCE.md
